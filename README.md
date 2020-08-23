@@ -1,4 +1,6 @@
-### Hi there, I'm Burak Dogukan - bdogukandagli [website] 👋
+### Hi there, I'm Burak Dogukan - bdogukandagli 👋
+
+<img align="left" alt="bdogukandagli Github Stats" src="https://github-readme-stats.vercel.app/api?username=bdogukandagli&show_icons=true&hide_border=true" />
 
 ## I'm a Student, Developer, and Teacher!
 
@@ -11,7 +13,7 @@
 
 [<img align="left" alt="bdogukandagli.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="bdogukandagli | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="bdogukandagli | LinkedIn" width="22px" src="https://www.shareicon.net/data/512x512/2015/12/01/680912_email_512x512.png" />][gmail]
+[<img align="left" alt="bdogukandagli | Gmail" width="22px" src="https://www.shareicon.net/data/512x512/2015/12/01/680912_email_512x512.png" />][gmail]
 
 <br />
 
