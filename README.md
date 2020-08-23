@@ -1,6 +1,10 @@
 ### Hi there, I'm Burak Dogukan - bdogukandagli 👋
 
-<img align="left" alt="bdogukandagli Github Stats" src="https://github-readme-stats.vercel.app/api?username=bdogukandagli&show_icons=true&hide_border=true" />
+<br/>
+
+<img align="left" alt="bdogukandagli Github Stats" src="https://github-readme-stats.vercel.app/api?username=bdogukandagli&count_private=true&show_icons=true&hide_border=true&theme=darcula" />
+
+<br/>
 
 ## I'm a Student, Developer, and Teacher!
 
