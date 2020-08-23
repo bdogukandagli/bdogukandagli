@@ -1,6 +1,6 @@
 ### Hi there, I'm Burak Dogukan - bdogukandagli 👋
 
-## I'm a Student, Developer, and Teacher!
+## I'm a Student, Developer, and Explorer!
 
 - :dart: I’m currently working on a React Project!
 - :computer: I’m currently learning Next.JS
