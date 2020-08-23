@@ -1,11 +1,5 @@
 ### Hi there, I'm Burak Dogukan - bdogukandagli 👋
 
----
-
-<img align="left" alt="bdogukandagli Github Stats" src="https://github-readme-stats.vercel.app/api?username=bdogukandagli&count_private=true&show_icons=true&hide_border=true" />
-
----
-
 ## I'm a Student, Developer, and Teacher!
 
 - :dart: I’m currently working on a React Project!
@@ -41,6 +35,16 @@
 
 <br />
 <br />
+
+---
+
+<img align="left" alt="bdogukandagli Github Stats" src="https://github-readme-stats.vercel.app/api?username=bdogukandagli&count_private=true&show_icons=true&hide_border=true&theme=dracula" />
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdogukandagli&layout=compact)](https://github.com/bdogukandagli)
+
+---
 
 [website]: http://bdogukandagli.com/
 [linkedin]: https://www.linkedin.com/in/burak-do%C4%9Fukan-da%C4%9Fli-0bb900154/
