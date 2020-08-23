@@ -42,7 +42,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdogukandagli&layout=compact)](https://github.com/bdogukandagli)
+<img align="left" alt="bdogukandagli Most Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdogukandagli&layout=compact"/>
 
 ---
 
