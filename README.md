@@ -3,8 +3,8 @@
 ## I'm a Student, Developer, and Explorer!
 
 - :dart: I’m currently working on a React Project!
-- :computer: I’m currently learning Next.JS
-- :date: 2020 Goals: Contribute more to Open Source projects
+- :computer: I’m currently learning Jest
+- :date: 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to explore new repositories
 
 ### Connect with me:
