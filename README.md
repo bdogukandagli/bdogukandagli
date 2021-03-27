@@ -49,12 +49,12 @@
 
 <img align="left" alt="bdogukandagli Github Stats" src="https://github-readme-stats.vercel.app/api?username=bdogukandagli&count_private=true&show_icons=true&hide_border=true&theme=dracula" />
 
-<img align="right" width="390px" height="120px" alt="bdogukandagli Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdogukandagli&theme=dracula&count_private=true&layout=compact" />
+<img align="left"  alt="bdogukandagli Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdogukandagli&theme=dracula&count_private=true&layout=compact" />
 
 
 
 
-<img align="left" width="495px" alt="bdogukandagli" src="https://camo.githubusercontent.com/f97736f371f9def644a32390ee3563ee0e9b754e39fcb505581b09b3ed65e200/68747470733a2f2f6d6574726963732e6c65636f712e696f2f62646f67756b616e6461676c693f74656d706c6174653d7465726d696e616c2669736f63616c656e6461723d312670726f6a656374733d312669736f63616c656e6461722e6475726174696f6e3d68616c662d796561722670726f6a656374732e6c696d69743d3426636f6e6669672e74696d657a6f6e653d4575726f7065253246497374616e62756c" />
+<img align="left"  alt="bdogukandagli" src="https://camo.githubusercontent.com/f97736f371f9def644a32390ee3563ee0e9b754e39fcb505581b09b3ed65e200/68747470733a2f2f6d6574726963732e6c65636f712e696f2f62646f67756b616e6461676c693f74656d706c6174653d7465726d696e616c2669736f63616c656e6461723d312670726f6a656374733d312669736f63616c656e6461722e6475726174696f6e3d68616c662d796561722670726f6a656374732e6c696d69743d3426636f6e6669672e74696d657a6f6e653d4575726f7065253246497374616e62756c" />
 
 
 
