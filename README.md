@@ -49,7 +49,7 @@
 
 <img align="left" alt="bdogukandagli Github Stats" src="https://github-readme-stats.vercel.app/api?username=bdogukandagli&count_private=true&show_icons=true&hide_border=true&theme=dracula" />
 
-<img align="right" width="410px" height="120px" alt="bdogukandagli Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdogukandagli&theme=dracula&count_private=true&layout=compact" />
+<img align="right" width="390px" height="120px" alt="bdogukandagli Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdogukandagli&theme=dracula&count_private=true&layout=compact" />
 
 
 
