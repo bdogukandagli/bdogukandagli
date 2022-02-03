@@ -1,11 +1,11 @@
 ### Hi there, I'm Burak Dogukan - bdogukandagli 👋
 
 
-## I'm a Student, Developer and Explorer!
+## I'm a Developer and Explorer!
 
 - :dart: I’m currently working on a React Project!
-- :computer: I’m currently learning Jest
-- :date: 2021 Goals: Contribute more to Open Source projects
+- :computer: I’m currently learning Go
+- :date: 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to explore new repositories
 
 <br />
@@ -58,6 +58,6 @@
 
 
 
-[website]: http://bdogukandagli.com/
+[website]: https://github.com/bdogukandagli/
 [linkedin]: https://www.linkedin.com/in/burak-dogukan-dagli/
 [gmail]: bdogukandagli@gmail.com
