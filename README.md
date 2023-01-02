@@ -5,7 +5,7 @@
 
 - :dart: I’m currently working on a React Project!
 - :computer: I’m currently learning Go
-- :date: 2022 Goals: Contribute more to Open Source projects
+- :date: 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to explore new repositories
 
 <br />
