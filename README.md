@@ -3,9 +3,9 @@
 
 ## I'm a Developer and Explorer!
 
-- :dart: I’m currently working on a React Project!
+- :dart: I’m currently working on a Vue Project!
 - :computer: I’m currently learning Go
-- :date: 2023 Goals: Contribute more to Open Source projects
+- :date: 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to explore new repositories
 
 <br />
