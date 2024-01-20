@@ -1,7 +1,7 @@
 ### Hi there, I'm Burak Dogukan - bdogukandagli 👋
 
 
-## I'm a Developer and Explorer!
+## I'm a Frontend Developer!
 
 - :dart: I’m currently working on a Vue Project!
 - :computer: I’m currently learning Go
